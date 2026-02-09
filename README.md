@@ -68,7 +68,7 @@ Ganancias por Estado (USA)
 
 Subcategoría
 
-🌍 Estructura del Dashboard
+## 🌍 Estructura del Dashboard
 
 Página 1: Análisis Global
 
