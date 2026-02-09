@@ -3,6 +3,8 @@
 Dashboard interactivo de análisis de ventas, ganancias y clientes, construido en **Power BI** a partir de un dataset de ventas comerciales.  
 El objetivo del proyecto es mostrar habilidades de **análisis de datos** aplicadas a un caso realista de negocio.
 
+![mundo](https://github.com/user-attachments/assets/10492bf2-2454-477d-b148-407455638295)
+
 ---
 
 ## 🧠 Objetivo del proyecto
@@ -44,7 +46,9 @@ Las siguientes transformaciones se realizaron en **Power Query**:
 
 ## 📈 Visualizaciones incluidas
 
-KPI cd Ventas Totales
+![filtro](https://github.com/user-attachments/assets/f4cddd4a-159e-4ae8-a06a-e61448ce18eb)
+
+KPI con Ventas Totales
 
 ### Gráficos:
 
@@ -71,6 +75,8 @@ Página 1: Análisis Global
 Ventas y ganancias a nivel mundial
 
 Página 2: Análisis USA
+
+![usa](https://github.com/user-attachments/assets/78ae6678-1c32-44d5-8b24-efc25a044d3d)
 
 Enfoque a USA y sus estados
 
