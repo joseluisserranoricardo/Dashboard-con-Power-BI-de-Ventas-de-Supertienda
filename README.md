@@ -90,13 +90,7 @@ Power Query
 
 Agregar análisis de:
 
-Margen de ganancia
-
 Crecimiento interanual (YoY)
-
-Incorporar segmentadores de tiempo
-
-Optimizar medidas DAX para mayor eficiencia
 
 Añadir storytelling con insights clave
 
@@ -104,5 +98,3 @@ Añadir storytelling con insights clave
 
 José Luis Serrano
 Matemático | Data Analysis | Power BI
-    VALUES(Ventas[Año])
-)
