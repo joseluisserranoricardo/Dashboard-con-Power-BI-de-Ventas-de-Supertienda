@@ -39,12 +39,6 @@ Las siguientes transformaciones se realizaron en **Power Query**:
   - Fechas
 - Conversión de tipos de datos:
   - Fechas → Date
-  - Ventas y Ganancias → Decimal
-- Normalización de nombres de columnas
-- Creación de columnas auxiliares de fecha:
-  - Año
-  - Mes
-- Revisión de consistencia en países y estados
 
 ---
 
