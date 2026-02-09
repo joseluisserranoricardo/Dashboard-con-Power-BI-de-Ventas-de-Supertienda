@@ -48,7 +48,7 @@ Las siguientes transformaciones se realizaron en **Power Query**:
 
 ![filtro](https://github.com/user-attachments/assets/f4cddd4a-159e-4ae8-a06a-e61448ce18eb)
 
-KPI con Ventas Totales
+### KPI con Ventas Totales
 
 ### Gráficos:
 
